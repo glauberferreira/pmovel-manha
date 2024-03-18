@@ -7,6 +7,8 @@ export default function App() {
     <View style={styles.container}>
       <Text>Prof. Glauber Ferreira</Text>
       <Gato/>
+      <Gato/>
+      <Gato/>
       <StatusBar style="auto" />
     </View>
   );
